@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi, I'm Lisa and I was born on the moon.
+## What I love:
+* Coconut ice cream
+* singing bowls
+* nuts and berries
+* techno
+* lush landscapes
+* very bright stars
 
-<!--
-**lisa-von-mond/lisa-von-mond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+this is my __DJ cloud__: soundcloud.com/lisadelune
 
-Here are some ideas to get you started:
+this is my insta: instagram.com/lunikrawall
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
