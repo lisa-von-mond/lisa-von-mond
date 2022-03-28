@@ -1,4 +1,4 @@
-## Hi, I'm Lisa and I was born on the moon.
+## Hi, I'm Lisa
 
 Web Developer in Training / Sound and Culture Researcher / DJ / Music Producer
 
