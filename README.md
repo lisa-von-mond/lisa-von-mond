@@ -2,7 +2,7 @@
 
 Web Development Newbie / Sound and Culture Researcher / DJ / Music Producer
 
-I have a passion for space, although I have never been there.
+visit me here: [lisa-von-mond.net](https://lisa-von-mond.net)
 
 find my music here: [soundcloud.com/lisavonmond](https://soundcloud.com/lisavonmond)
 
