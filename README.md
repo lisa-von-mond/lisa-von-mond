@@ -1,8 +1,7 @@
-## git commit -m "om shanti shanti"
+## git commit -m "here we go"
 
 ### Hi, I am Lisa. 
-[ Frontend developer / creative nerd / DJ and music producer ]
-
+[ frontend developer / creative nerd / audiophile ]
 [ Based in Berlin ]
-
-[ listen to my music here: [soundcloud.com/lisavonmond](https://soundcloud.com/lisavonmond) ]
+[ not afraid of mercury retrograde ]
+[ making friends with machine learning ]
